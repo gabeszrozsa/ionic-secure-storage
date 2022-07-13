@@ -1,0 +1,7 @@
+{
+  "name": "ionic-secure-storage-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
